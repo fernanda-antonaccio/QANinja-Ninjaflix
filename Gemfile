@@ -1,0 +1,6 @@
+source 'https://rubygems.org'
+gem 'rspec'
+gem 'capybara'
+gem 'cucumber'
+gem 'pg', '1.1.4'
+gem 'selenium-webdriver'

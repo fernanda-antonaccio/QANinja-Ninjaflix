@@ -1,0 +1,80 @@
+ultimato:
+  title: "Vingadores: Ultimato"
+  status: "Disponível"
+  year: 2019
+  release_date: "24/04/2019"
+  cast: ["Robert Downey Jr.", "Chris Evans", "Scarlett Johansson", "Elizabeth Olsen", "Chris Hemsworth", "Mark Ruffalo", "Jeremy Renner"]
+  overview: "Após Thanos eliminar metade das criaturas vivas, os Vingadores têm de lidar com a perda de amigos e entes queridos."
+  cover: "ultimato.jpg"
+
+spider:
+  title: "Homem-Aranha: Longe de Casa"
+  status: "Pré-venda"
+  year: 2019
+  release_date: "04/07/2019"
+  cast: ["Tom Holland", "Zendaya", "Jake Gyllenhaal", "Batalon", "Jon Favreau", "Cobie Smulders", "Samuel L Jackson"]
+  overview: "Peter Parker está em uma viagem de duas semanas pela Europa, ao lado de seus amigos de colégio, quando é surpreendido pela visita de Nick Fury."
+  cover: "spider.jpg"
+
+jocker:
+  title: "Coringa"
+  status: "Em breve"
+  year: 2019
+  release_date: "01/12/2020"
+  cast: ["Joaquin Phoenix", "Zazie Beetz", "Frances Conroy", "Robert De Niro"]
+  overview: "Isolado, intimidado e desconsiderado pela sociedade, o fracassado comediante Arthur Fleck inicia seu caminho como uma mente criminosa após assassinar três homens em pleno metrô."
+  cover: "coringa.jpg"
+
+10coisas:
+  title: "10 Coisas que eu odeio em você"
+  status: "Disponível"
+  year: 1999
+  release_date: "06/04/1999"
+  cast: ["Heath Ledger", "Julia Stiles", "Larisa Oleynik", "Joseph Gordon-Levitt", "Andrew Keegan", "David Krumholtz", "Larry Miller"]
+  overview: "A situação está tensa na casa dos Stratford. Bianca não vê a hora de arranjar um namorado, mas seu pai não permite que ela saia com garotos."
+  cover: "10coisas.jpg"
+
+stardust:
+  title: "Stardust - O Mistério da Estrela"
+  status: "Disponível"
+  year: 2007
+  release_date: "10/10/2007"
+  cast: ["Charlie Cox", "Claire Danes", "Sienna Miller", "Robert De Niro", "Michelle Pfeiffer", "Henry Cavill"]
+  overview: "Conta a história de um balconista Tristan que não tinha nenhuma ambição na vida a não ser conquistar o coração da bela Victória, que nada sente por ele."
+  cover: "stardust.jpg"
+
+no_title:
+  title: ""
+  status: "Disponível"
+  year: 2020
+  release_date: "01/01/2020"
+  cast: []
+  overview: ""
+  cover: ""
+
+no_status:
+  title: "Teste no_status"
+  status: ""
+  year: 2020
+  release_date: "01/01/2020"
+  cast: []
+  overview: ""
+  cover: ""
+
+no_year:
+  title: "Teste no_year"
+  status: "Disponível"
+  year: 
+  release_date: "01/01/2020"
+  cast: []
+  overview: ""
+  cover: ""
+
+no_release:
+  title: "Teste no_release"
+  status: "Disponível"
+  year: 2020
+  release_date: ""
+  cast: []
+  overview: ""
+  cover: ""
